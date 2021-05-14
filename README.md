@@ -40,3 +40,14 @@ def generator():
                                activation="tanh"),
     ])
 ```
+
+
+# Contact
+
+LinkedIn : https://www.linkedin.com/in/tim-cvetko-32842a1a6/
+
+Medium : https://cvetko-tim.medium.com/
+
+# Acknowledgments
+
+Coursera Specialization by Deep Learning : https://www.coursera.org/specializations/generative-adversarial-networks-gans
