@@ -3,7 +3,7 @@ This repository serves the purpose of creating logos using Generative Adversial 
 
 
 
-'''python
+```python
 
     def generator():
         start = time.time()
@@ -29,4 +29,4 @@ This repository serves the purpose of creating logos using Generative Adversial 
             layers.Conv2DTranspose(filters=3, kernel_size=(5, 5), strides=(2, 2), padding="same", use_bias=False,
                                    activation="tanh"),
         ])
-'''
+```
