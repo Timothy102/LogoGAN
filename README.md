@@ -3,7 +3,7 @@ This repository serves the purpose of creating logos using Generative Adversial 
 
 
 
-''' python
+'''python
 def generator():
     start = time.time()
 
